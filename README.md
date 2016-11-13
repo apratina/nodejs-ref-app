@@ -1,2 +1,3 @@
-# nodejs-ref-app
-nodejs reference application
+# {{appname}}
+
+Bolier plate code generated for {{appname}}.
